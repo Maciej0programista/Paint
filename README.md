@@ -2,39 +2,27 @@
 
 <img src="Paint_ico.png" align="right" width="128">
 
-Ta aplikacja to prosty program do rysowania, stworzony przy użyciu Python, Tkinter i Matplotlib.  Umożliwia ona tworzenie rysunków za pomocą myszki, z możliwością wyboru koloru i grubości linii.  Zapisuje rysunki w formatach PNG i JPG.
+Witamy w aplikacji Paint stworzonej przez CatDeveloper! To prosty, lecz funkcjonalny program do rysowania, idealny dla początkujących i tych, którzy potrzebują szybkiego i łatwego w użyciu narzędzia do tworzenia rysunków.  Został napisany w języku Python z wykorzystaniem bibliotek Tkinter (interfejs użytkownika) i Matplotlib (rysowanie).
 
 
 ## Funkcjonalność:
 
-* **Rysowanie:** Tworzenie rysunków za pomocą myszki.
-* **Wybór koloru:**  Duża paleta kolorów do wyboru.
-* **Grubość linii:**  Regulacja grubości linii rysowania.
-* **Zapisywanie:**  Zapisywanie rysunków do plików PNG i JPG.
-* **Czyszczenie obrazu:**  Przycisk do czyszczenia całego obszaru rysowania.
-* **Prosty interfejs:**  Intuicyjny i łatwy w użyciu interfejs użytkownika.
+* **Intuicyjne rysowanie:** Tworzenie rysunków za pomocą myszki jest proste i intuicyjne.  Wystarczy kliknąć i przeciągać, aby narysować linię.
+* **Bogata paleta kolorów:** Aplikacja oferuje szeroką gamę kolorów do wyboru, zapewniając elastyczność w tworzeniu różnorodnych rysunków.  Paleta kolorów jest przewijana za pomocą wygodnego suwaka.
+* **Regulacja grubości linii:** Możesz dostosować grubość linii, aby uzyskać pożądany efekt wizualny.
+* **Zapisywanie w różnych formatach:**  Zapisz swoje dzieła w popularnych formatach PNG i JPG, aby móc je łatwo udostępniać i wykorzystywać w innych aplikacjach.
+* **Funkcja czyszczenia:**  Szybko i łatwo wyczyść cały obszar rysowania jednym kliknięciem.
+* **Prosty i czytelny interfejs:**  Interfejs użytkownika został zaprojektowany tak, aby był prosty i intuicyjny, zapewniając komfortowe korzystanie z aplikacji.
 
 
 ## Ważne informacje:
 
-* **Plik `kolory.json`:** Aplikacja korzysta z pliku `kolory.json` do przechowywania palety kolorów.  **Każda, nawet najmniejsza, modyfikacja tego pliku ręcznie może spowodować uszkodzenie aplikacji.** Jeśli wystąpią problemy, usuń plik `kolory.json` – aplikacja automatycznie wygeneruje nowy plik z domyślną paletą kolorów podczas kolejnego uruchomienia.
+* **Plik `kolory.json`:** Aplikacja korzysta z pliku `kolory.json` do przechowywania palety kolorów.  **Każda, nawet najmniejsza, ręczna modyfikacja tego pliku może spowodować uszkodzenie aplikacji.** Jeśli wystąpią problemy, usuń plik `kolory.json` – aplikacja automatycznie wygeneruje nowy plik z domyślną paletą kolorów podczas kolejnego uruchomienia.
 
-## Instalacja:
+## Pobierz aplikację:
 
-1.  Upewnij się, że masz zainstalowane Pythona (wersja 3.7 lub nowsza) oraz biblioteki:
-    ```bash
-    pip install matplotlib numpy Pillow
-    ```
-2.  Pobierz pliki aplikacji (main.py, gui.py, logic.py, Paint.ico).
-3.  Uruchom plik `main.py`.
+[Pobierz aplikację](https://drive.google.com/drive/folders/16Co36wnCSVMRf1-iMa1ZZOTL1cMdgPkQ?usp=sharing)
 
-
-## Utworzenie pliku wykonywalnego (EXE):
-
-Do utworzenia pliku wykonywalnego (EXE) użyj PyInstaller:
-
-1. Zainstaluj PyInstaller:  `pip install pyinstaller`
-2. Uruchom w konsoli: `pyinstaller --onefile --icon=Paint.ico main.py gui.py logic.py`
 
 
 ## Autor:
