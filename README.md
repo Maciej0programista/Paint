@@ -21,7 +21,7 @@ Witamy w aplikacji Paint stworzonej przez CatDeveloper! To prosty, lecz funkcjon
 
 ## Pobierz aplikację:
 
-[Pobierz aplikację](https://drive.google.com/drive/folders/16Co36wnCSVMRf1-iMa1ZZOTL1cMdgPkQ?usp=sharing)
+[Pobierz aplikację](https://drive.google.com/file/d/1-1T9m5MMx3HQ-O6t5g74IRywUm-XBjum/view?usp=sharing)
 
 
 
