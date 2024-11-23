@@ -1,6 +1,6 @@
 # Aplikacja Paint by CatDeveloper
 
-<img src="Paint_icon.png" align="right" width="128">
+<img src="Paint_ico.png" align="right" width="128">
 
 Ta aplikacja to prosty program do rysowania, stworzony przy użyciu Python, Tkinter i Matplotlib.  Umożliwia ona tworzenie rysunków za pomocą myszki, z możliwością wyboru koloru i grubości linii.  Zapisuje rysunki w formatach PNG i JPG.
 
