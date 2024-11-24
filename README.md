@@ -32,6 +32,9 @@ Witamy w aplikacji Paint v1.2 stworzonej przez CatDeveloper! To prosty, lecz fun
 
 CatDeveloper
 
+<div align="center">
+  <img src="catdeveloper_logo.png" alt="CatDeveloper Logo" width="200">
+</div>
 
 ---
 <div align="right">
